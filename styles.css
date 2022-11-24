@@ -1341,8 +1341,11 @@ Slider - Magnific Popup */
 .form {
 	padding-top: 6.25rem;
 	padding-bottom: 5.625rem;
-	background: url('../images/contact-background.jpg') center bottom no-repeat;
+	background: url('https://raw.githubusercontent.com/Sayyednaa/naap/main/contact-background.jpg') center bottom no-repeat;
 	background-size: cover; 
+}
+#contact{
+	background: url('https://raw.githubusercontent.com/Sayyednaa/naap/main/download-background.jpg') center bottom no-repeat
 }
 
 .form h2 {
