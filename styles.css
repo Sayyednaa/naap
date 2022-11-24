@@ -318,7 +318,7 @@ select {
 	-ms-appearance: none;
     -o-appearance: none;
     appearance: none;
-    background-image: url('../images/down-arrow.png');
+    background-image: url('https://github.com/Sayyednaa/naap/blob/main/down-arrow.png');
     background-position: 96% 50%;
     background-repeat: no-repeat;
     outline: none;
@@ -524,7 +524,8 @@ input[type='checkbox'] {
 }
 /* end of fade-move animation for lightbox - magnific popup */
 
-/* Fade Animation For Image Slider - Magnific Popup */
+/* Fade Animation For 
+Slider - Magnific Popup */
 @-webkit-keyframes fadeIn {
 	from {
 		opacity: 0;
